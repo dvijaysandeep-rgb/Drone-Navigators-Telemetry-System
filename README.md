@@ -37,10 +37,9 @@ Drone Navigator's Telemetry System is a UAV-based monitoring and rescue support 
 ## Screenshots
 
 ### Object Detection
-![Detection](detection.jpg)
-
+[Detection](Detection.png)
 ### Target Lock Mode
-![Target Lock](targetlock.jpg)
+[Target Lock](Locking.png)
 
 ## Applications
 - Search and Rescue Operations
