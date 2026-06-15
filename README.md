@@ -1,5 +1,6 @@
-[Detection](detection.jpg)
-[Target Lock](targetlock.jpg)
+[Detection](Detection.png)
+
+[Target Lock](Locking.png)
 
 # Drone Navigator's Telemetry System
 
